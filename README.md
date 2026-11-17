@@ -1,0 +1,1 @@
+# Delta Exchange Trading Bot\n24/7 automated breakout trading bot logging to Google Sheets.
